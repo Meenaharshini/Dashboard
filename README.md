@@ -16,7 +16,7 @@ Population in Education, Gender wise and Birthweight also.
 ![image](https://github.com/Meenaharshini/Dashboard/assets/108173891/b78b489d-bbc1-4baa-838a-b66ee4509e0b)
 
    Step 3️⃣
-     💹 Analysis on Age of US Mother popluation. What influence the US mother's popluation is increased. What cause effect theie population is decrease using Key Influencer Analysis.
+     💹 Analysis on Age of US Mother popluation. What influence the US mother's popluation is increased. What cause effect their population is decrease using Key Influencer Analysis.
 
 ![image](https://github.com/Meenaharshini/Dashboard/assets/108173891/01e3f0a9-edb5-4d46-b19b-ab605e6b31a6)
 
